@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsoRouting", "CorsoRouting\CorsoRouting.csproj", "{2B4F500B-1817-488B-9AB1-333413011F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{935627CC-3E9A-43D1-B2F0-14D91DE491D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4F500B-1817-488B-9AB1-333413011F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4F500B-1817-488B-9AB1-333413011F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4F500B-1817-488B-9AB1-333413011F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4F500B-1817-488B-9AB1-333413011F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935627CC-3E9A-43D1-B2F0-14D91DE491D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935627CC-3E9A-43D1-B2F0-14D91DE491D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935627CC-3E9A-43D1-B2F0-14D91DE491D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935627CC-3E9A-43D1-B2F0-14D91DE491D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6ADE3AA-2754-459F-9F02-BE98AFBFDB33}
+	EndGlobalSection
+EndGlobal
